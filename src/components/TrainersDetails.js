@@ -15,7 +15,7 @@ const TrainerDetails = ({route}) => {
         {route?.params.lastName}
       </Text>
       <Text style={styles.item}>
-        {'Generó: '}
+        {'Género: '}
         {route?.params.gender}
       </Text>
       <Text style={styles.item}>

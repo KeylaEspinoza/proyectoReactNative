@@ -21,12 +21,12 @@ const App = () => {
           <Stack.Screen
             name="Pokemon"
             component={Pokemon}
-            options={{title: 'Pokemón'}}
+            options={{title: 'Pokémon'}}
           />
           <Stack.Screen
             name="PokemonDetails"
             component={PokemonDetails}
-            options={{title: 'Detalle Pokemón'}}
+            options={{title: 'Detalle Pokémon'}}
           />
           <Stack.Screen
             name="Trainers"
